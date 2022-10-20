@@ -1,0 +1,58 @@
+.Review-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10rem;
+   
+    
+
+}
+
+.review-head{
+    justify-content: center;
+    display: flex;
+    font-weight: bold;
+    
+    align-items: center;
+    
+
+   
+}
+
+.review-head>p{
+    color: var(--black);
+    font-size: 2rem
+
+
+}
+.review-head span{
+    font-size: 2rem;
+    color: var(--orange);
+}
+
+
+.Review-swiper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60rem ;
+    height: 20rem;
+    border: 2px solid var(--orangeCard);
+ box-shadow:-12px 15px 13px rgba(0,0,0,0.25);
+    padding-left: 20px;
+    border-radius: 100px;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+   
+}
+
+.Review-swiper img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: scale(0.7);
+    border-radius: 100%;
+    margin-left: 40%;
+
+}

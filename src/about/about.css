@@ -1,0 +1,17 @@
+.About{
+    display: flex;
+    max-width: 1600px;
+    margin: 0 auto;
+    height: 50rem;
+    /* background-color: aqua; */
+
+}
+
+#Aboutbox{
+    margin-top: 200px;
+    margin-bottom: -5rem;
+}
+
+.i-aboutright{
+    position: relative;
+}

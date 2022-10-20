@@ -1,0 +1,75 @@
+.vector1{
+    position: absolute;
+    top: 7rem;
+    left: 1rem;
+
+    
+}
+
+.vector2{
+    position: absolute;
+    z-index: 1;
+    left: 3rem;
+    top: 5rem;
+    
+}
+
+.boy{
+    z-index: 3;
+    position: absolute;
+    top: 3rem;
+    left: 8rem;
+    height: 37rem;
+    width: 25rem;
+}
+
+.fancy-item1{
+    display: flex;
+    position: absolute;
+   
+    align-items: center;
+    width: 18rem;
+    border-radius: 2rem;
+    height: 5rem;
+    background-color: aquamarine;
+    left: 25rem;
+    top: 4rem;
+
+}
+
+.crown{
+    transform: scale(0.5);
+}
+
+.thumb{
+    transform: scale(0.5);
+}
+
+.fancy-item2{
+    display: flex;
+    position: absolute;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 18rem;
+    border-radius: 2rem;
+    height: 5rem;
+    background-color: coral;
+    top: 32rem;
+    
+    z-index: 3;
+    
+    
+
+}
+.thumb-txt{
+    font-size: 1.5rem;
+}
+.crown-text{
+    font-size: 1.5rem;
+}
+
+.glass{
+    position: absolute;
+    left: -9rem;
+    transform: scale(0.9);
+}

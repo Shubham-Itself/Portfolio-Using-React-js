@@ -1,0 +1,81 @@
+.aboutRight-main{
+    position: relative;
+    left: 9rem;
+    width: 25rem;
+    height: 25rem;
+    border-radius: 100%;
+    box-shadow: var(--smboxShadow);
+    top: 2rem;
+    background-color: white;
+   
+}
+
+.aboutRight-main>*{
+    position: absolute;
+
+}
+
+.aboutRight-main> :nth-child(1){
+    top: -3rem;
+    left: 8rem;
+}
+.aboutRight-main> :nth-child(2){
+    top: 8rem;
+    left: -3rem;
+}
+.aboutRight-main> :nth-child(3){
+    top: 8rem;
+    left: 8rem;
+}
+.aboutRight-main> :nth-child(5){
+    top: 20rem;
+    left: 8rem;
+}
+.aboutRight-main> :nth-child(4){
+    top: 8rem;
+    left: 20rem;
+}
+
+
+.icon-itemabout{
+    width: 8rem;
+    height: 8rem;
+    position: absolute;
+    border-radius: 100%;
+    border: 5px solid #ebebeb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: var(--smboxShadow);
+    background: white;
+}
+
+.icon-itemabout> img{
+    transform: scale(0.8);
+}
+
+.about-decor{
+    position: absolute;
+    width: 18rem;
+    height: 18rem;
+    background-color: green;
+    border-radius: 100%;
+    z-index: -1;
+
+    
+}
+
+.blue-item{
+    background-color: blue;
+    left: 11rem;
+    top: -2rem;
+}
+
+
+.yellow-item{
+    background-color: var(--yellow);
+    left: 11rem;
+    top: 10rem;
+}
+
+
