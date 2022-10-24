@@ -1,11 +1,11 @@
 import React from "react";
 import './service.css'
-import Resume from '../Service/Shubham-Resume.pdf'
+import Resume from '../Service/Shubham-Resume1.pdf'
 import ServiceRight from './ServiceRight'
 import Heart from '../img/heartemoji.png'
 import Glass from '../img/glasses.png'
 import Humble from '../img/humble.png'
-import {motion} from 'framer-motion'
+
 
 
 

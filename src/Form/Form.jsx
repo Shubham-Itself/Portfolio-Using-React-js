@@ -34,7 +34,7 @@ function Form() {
             <input type="text" placeholder="Name" name="user_name" /> <br />
             <br />
             <br />
-            <input type="email" placeholder="email" name="user_name" />
+            <input type="email" placeholder="email" name="user_email" />
             <br />
             <br /> <br />
             <textarea

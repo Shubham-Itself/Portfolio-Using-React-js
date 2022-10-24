@@ -5,6 +5,8 @@
     flex-direction: column;
     height: 10vh;
     margin-bottom: 2rem;
+    padding: 2rem 0rem;
+   
 }
 
 .portfolio span:nth-of-type(1){

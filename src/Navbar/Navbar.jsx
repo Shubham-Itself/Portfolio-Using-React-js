@@ -1,10 +1,7 @@
 import React from "react";
 import './navbar.css'
 import {Link} from 'react-scroll'
-import Experience from "../Experience/Experience";
-import PortFolio from "../PortFolio/PortFolio";
-import Review from "../Review/Review";
-import Service from '../Service/Service'
+
 
 
 export function Navbar(){
